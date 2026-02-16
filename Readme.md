@@ -190,6 +190,7 @@ pip install transformers datasets torch scikit-learn pandas numpy
 ---
 
 ## Author
+Sathyavardhana
 
-Anirudh  
   
+
